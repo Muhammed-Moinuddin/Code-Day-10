@@ -1,0 +1,38 @@
+body{
+    background-image: url(images/image2.png);
+    background-repeat: repeat-x;
+    background-attachment: scroll;
+    background-position: center center;
+}
+img.large{
+    width: 500px;
+    height: 500px;
+}
+img.medium{
+    width: 250px;
+    height: 250px;
+}
+img.small{
+    width: 100px;
+    height: 100px;
+}
+.align-left{
+    float: left;
+    margin-right: 10px;
+}
+.align-right{
+    float: right;
+    margin-left: 10px;
+}
+div{
+    clear: both;
+}
+.align-center{
+    display: block;
+    margin: 0px auto;
+}
+.one{
+    color: white;
+    background-image: url(images/image2.png);
+    padding: 10px;
+}
